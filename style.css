@@ -19,17 +19,8 @@ body{
 }
 .text{
     font-family: 'Nanum Gothic', sans-serif;
-    font-size:12px;
+    font-size:11px;
 }
-/*
-.title{
-    font-size:23px;
-    margin-top:20%;
-    margin-bottom:10px;
-    font-weight: bold;
-    text-align:center;
-}
-*/
 .container{
     display:flex;
     flex-direction:column;
